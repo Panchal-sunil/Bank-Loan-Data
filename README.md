@@ -20,34 +20,24 @@ Provides an overall view of the bank’s loan portfolio, including:
 
 It helps stakeholders quickly assess the health and performance of the loan portfolio.
 
-
 2️⃣ **Overview Dashboard**
 
--Visualizes broad loan trends and distributions:
-
--Monthly Loan Application Trends (Line Chart)
-
--State-wise Distribution of Loans (Filled Map)
-
--Loan Term Analysis (Donut Chart)
-
--Employee Length Analysis (Bar Chart)
-
--Loan Purpose Breakdown (Bar Chart)
-
--Home Ownership Analysis (Tree Map)
+-Visualizes broad loan trends and distributions:<br>
+-Monthly Loan Application Trends (Line Chart)<br>
+-State-wise Distribution of Loans (Filled Map)<br>
+-Loan Term Analysis (Donut Chart)<br>
+-Employee Length Analysis (Bar Chart)<br>
+-Loan Purpose Breakdown (Bar Chart)<br>
+-Home Ownership Analysis (Tree Map)<br>
 
 This dashboard reveals borrower behavior patterns and highlights geographic and demographic trends.
 
 
 3️⃣ **Details Dashboard**
 
--A detailed data view that allows:
-
--Loan-level insights
-
--Borrower details
-
+-A detailed data view that allows:<br>
+-Loan-level insights<br>
+-Borrower details<br>
 -Filters for State, Grade, Loan Status, Purpose, and many more
 
 This dashboard acts as a complete exploration tool for loan-level analysis.
@@ -57,27 +47,20 @@ This dashboard acts as a complete exploration tool for loan-level analysis.
 
 This project was created to:
 
--Track loan applications and funding performance monthly
-
--Monitor repayment flow and total amount received
-
--Measure interest rate and DTI patterns
-
--Segment loans into Good Loans (Fully Paid, Current) and Bad Loans (Charged Off)
-
--Evaluate portfolio quality and identify improvement areas
-
--Provide a clear and interactive analytics framework for decision-makers
+-Track loan applications and funding performance monthly<br>
+-Monitor repayment flow and total amount received<br>
+-Measure interest rate and DTI patterns<br>
+-Segment loans into Good Loans (Fully Paid, Current) and Bad Loans (Charged Off)<br>
+-Evaluate portfolio quality and identify improvement areas<br>
+-Provide a clear and interactive analytics framework for decision-makers<br>
 
 
 🗄️ **Data Sources**
 
 -Bank Loan Excel Dataset
-(Loan applications, borrower info, financial metrics, loan status)
-
+(Loan applications, borrower info, financial metrics, loan status)<br>
 -SQL Query Document
-(Used for KPI calculations and data validation)
-
+(Used for KPI calculations and data validation)<br>
 -Problem Statement & Terminologies File
 (Defines business requirements and financial terminology)
 
@@ -85,45 +68,32 @@ This project was created to:
 🧮 **Tools & Technologies Used
 Tool	Purpose**
 
--Excel :-	Data cleaning, exploration, and preprocessing
-
--SQL	:- KPI calculation, validation, and aggregation queries
-
--Power BI	:- Dashboard design, modeling, and DAX measures
-
+-Excel :-	Data cleaning, exploration, and preprocessing<br>
+-SQL	:- KPI calculation, validation, and aggregation queries<br>
+-Power BI	:- Dashboard design, modeling, and DAX measures<br>
 -Python :-	Additional cleaning/EDA
 
 
 📌 **Core KPIs Calculated**
 
--Loan Portfolio Metrics
-
--Total Loan Applications
-
--Total Funded Amount
-
--Total Amount Received
-
--Avg Interest Rate
-
+-Loan Portfolio Metrics<br>
+-Total Loan Applications<br>
+-Total Funded Amount<br>
+-Total Amount Received<br>
+-Avg Interest Rate<br>
 -Avg DTI
 
 
 **Good Loan Metrics**
 
--Good Loan Application %
-
--Good Loan Funded Amount
-
--Good Loan Received Amount
-
+-Good Loan Application %<br>
+-Good Loan Funded Amount<br>
+-Good Loan Received Amount<br>
 
 **Bad Loan Metrics**
 
--Bad Loan Application %
-
--Bad Loan Funded Amount
-
+-Bad Loan Application %<br>
+-Bad Loan Funded Amount<br>
 -Bad Loan Received Amount
 
 
@@ -131,38 +101,31 @@ Tool	Purpose**
 
 Includes:
 
--Loan Count
-
--Funded Amount
-
--Amount Received
-
--Avg Interest Rate
-
--Avg DTI
-
+-Loan Count<br>
+-Funded Amount<br>
+-Amount Received<br>
+-Avg Interest Rate<br>
+-Avg DTI<br>
 -MTD metrics
 
 📷 **Project Screenshots**
 
-**Summary Dashboard**
+**Summary Dashboard**<br>
+![Alt text](https://github.com/Panchal-sunil/Bank-Loan-Data/blob/main/Bank%20Loan%20Report%20Summary.png)<br>
+**Overview Dashboard**<br>
+![Alt text](https://github.com/Panchal-sunil/Bank-Loan-Data/blob/main/Bank%20Loan%20Report%20Overview.png)<br>
+**Details Dashboard**<br>
+![Alt text](https://github.com/Panchal-sunil/Bank-Loan-Data/blob/main/Bank%20Loan%20Report%20Details.png)<br>
 
-**Overview Dashboard**
-
-**Details Dashboard**
-
-🏗️ **Project Architecture**
+🏗️ **Project Architecture**<br>
 Excel → SQL → Data Modeling → DAX → Power BI Visualization
 
-🏁 **Conclusion**
+🏁 **Conclusion**<br>
 This project provides a complete loan portfolio analysis system that supports:
 
--Performance tracking
-
--Risk assessment
-
--Loan categorization
-
--Data-driven decision-making
+-Performance tracking<br>
+-Risk assessment<br>
+-Loan categorization<br>
+-Data-driven decision-making<br>
 
 It demonstrates strong skills in data analysis, dashboard reporting, SQL calculations, and business intelligence.
