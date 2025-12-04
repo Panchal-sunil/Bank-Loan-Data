@@ -5,10 +5,10 @@ The goal is to monitor, analyze, and visualize key loan-related metrics to help 
 
 ⭐ ** Project Overview**
 
-The Bank Loan Report consists of three interactive dashboards:
+The Bank Loan Report consists of three interactive dashboards:<br><br>
 
 
-1️⃣ **Summary Dashboard**
+1️⃣ **Summary Dashboard**<br>
 Provides an overall view of the bank’s loan portfolio, including:
 
 -Total Loan Applications<br>-Total Funded Amount<br>
@@ -18,10 +18,9 @@ Provides an overall view of the bank’s loan portfolio, including:
 -Good Loan vs Bad Loan KPIs<br>
 -Loan Status Grid Table<br>
 
-It helps stakeholders quickly assess the health and performance of the loan portfolio.
+It helps stakeholders quickly assess the health and performance of the loan portfolio.<br><br>
 
-2️⃣ **Overview Dashboard**
-
+2️⃣ **Overview Dashboard**<br>
 -Visualizes broad loan trends and distributions:<br>
 -Monthly Loan Application Trends (Line Chart)<br>
 -State-wise Distribution of Loans (Filled Map)<br>
@@ -30,83 +29,75 @@ It helps stakeholders quickly assess the health and performance of the loan port
 -Loan Purpose Breakdown (Bar Chart)<br>
 -Home Ownership Analysis (Tree Map)<br>
 
-This dashboard reveals borrower behavior patterns and highlights geographic and demographic trends.
+This dashboard reveals borrower behavior patterns and highlights geographic and demographic trends.<br><br>
 
 
-3️⃣ **Details Dashboard**
-
+3️⃣ **Details Dashboard**<br>
 -A detailed data view that allows:<br>
 -Loan-level insights<br>
 -Borrower details<br>
 -Filters for State, Grade, Loan Status, Purpose, and many more
 
-This dashboard acts as a complete exploration tool for loan-level analysis.
+This dashboard acts as a complete exploration tool for loan-level analysis.<br><br>
 
 
-🧠 **Key Business Objectives**
+🧠 **Key Business Objectives**<br>
 
-This project was created to:
-
+This project was created to:<br>
 -Track loan applications and funding performance monthly<br>
 -Monitor repayment flow and total amount received<br>
 -Measure interest rate and DTI patterns<br>
 -Segment loans into Good Loans (Fully Paid, Current) and Bad Loans (Charged Off)<br>
 -Evaluate portfolio quality and identify improvement areas<br>
--Provide a clear and interactive analytics framework for decision-makers<br>
+-Provide a clear and interactive analytics framework for decision-makers<br><br>
 
-
-🗄️ **Data Sources**
+🗄️ **Data Sources**<br>
 
 -Bank Loan Excel Dataset
 (Loan applications, borrower info, financial metrics, loan status)<br>
 -SQL Query Document
 (Used for KPI calculations and data validation)<br>
 -Problem Statement & Terminologies File
-(Defines business requirements and financial terminology)
+(Defines business requirements and financial terminology)<br><br>
 
 
 🧮 **Tools & Technologies Used
-Tool	Purpose**
-
+Tool	Purpose**<br>
 -Excel :-	Data cleaning, exploration, and preprocessing<br>
 -SQL	:- KPI calculation, validation, and aggregation queries<br>
 -Power BI	:- Dashboard design, modeling, and DAX measures<br>
--Python :-	Additional cleaning/EDA
+-Python :-	Additional cleaning/EDA<br><br>
 
 
-📌 **Core KPIs Calculated**
-
+📌 **Core KPIs Calculated**<br>
 -Loan Portfolio Metrics<br>
 -Total Loan Applications<br>
 -Total Funded Amount<br>
 -Total Amount Received<br>
 -Avg Interest Rate<br>
--Avg DTI
+-Avg DTI<br><br>
 
 
-**Good Loan Metrics**
-
+**Good Loan Metrics**<br>
 -Good Loan Application %<br>
 -Good Loan Funded Amount<br>
--Good Loan Received Amount<br>
+-Good Loan Received Amount<br><br>
 
-**Bad Loan Metrics**
 
+**Bad Loan Metrics**<br>
 -Bad Loan Application %<br>
 -Bad Loan Funded Amount<br>
--Bad Loan Received Amount
+-Bad Loan Received Amount<br><br>
 
 
-**Loan Status Table**
-
-Includes:
-
+**Loan Status Table**<br>
+Includes:<br>
 -Loan Count<br>
 -Funded Amount<br>
 -Amount Received<br>
 -Avg Interest Rate<br>
 -Avg DTI<br>
--MTD metrics
+-MTD metrics<br><br>
 
 📷 **Project Screenshots**
 
